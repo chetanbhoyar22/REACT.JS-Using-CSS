@@ -1,0 +1,29 @@
+h1
+{
+    color:green;
+    text-align:center;
+}
+
+h2
+{
+    color:red;
+    text-align:center;
+    padding: 10px;
+    font-family:verdana;
+}
+
+.wisdom
+{
+    color:black;
+    text-align:center;
+    background-color: powderblue;
+}
+
+#my_p_tag
+{
+    color:royalblue;
+    margin-left:700px;
+    font-family: cursive;
+    
+}
+
